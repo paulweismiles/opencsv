@@ -1,4 +1,4 @@
-Month of Order Date,Product Name,Sales
+Month of Order Date,Product Name,Sales.
 2013-05-01,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",208.00
 2015-06-01,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",208.00
 2013-11-01,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",333.00
@@ -478,17 +478,17 @@ Month of Order Date,Product Name,Sales
 2014-11-01,"Adams ""While You Were Out"" Message Pads",16.00
 2016-05-01,"Adams ""While You Were Out"" Message Pads",16.00
 2013-11-01,"Adams ""While You Were Out"" Message Pads",22.00
-2015-12-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",14.00
-2016-08-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",14.00
-2016-09-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",14.00
-2016-12-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",28.00
-2015-04-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",34.00
-2016-05-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",34.00
-2014-12-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",41.00
-2015-09-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",48.00
-2014-07-01,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6” x 11”",11.00
-2013-08-01,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6” x 11”",21.00
-2015-12-01,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6” x 11”",63.00
+2015-12-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16√ì x 11√ì",14.00
+2016-08-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16√ì x 11√ì",14.00
+2016-09-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16√ì x 11√ì",14.00
+2016-12-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16√ì x 11√ì",28.00
+2015-04-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16√ì x 11√ì",34.00
+2016-05-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16√ì x 11√ì",34.00
+2014-12-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16√ì x 11√ì",41.00
+2015-09-01,"Adams Phone Message Book, 200 Message Capacity, 8 1/16√ì x 11√ì",48.00
+2014-07-01,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6√ì x 11√ì",11.00
+2013-08-01,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6√ì x 11√ì",21.00
+2015-12-01,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6√ì x 11√ì",63.00
 2015-09-01,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",17.00
 2016-10-01,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",17.00
 2014-02-01,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",23.00
@@ -510,11 +510,11 @@ Month of Order Date,Product Name,Sales
 2014-01-01,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",40.00
 2013-06-01,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",48.00
 2016-09-01,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",112.00
-2013-05-01,"Adams Telephone Message Books, 5 1/4” x 11”",5.00
-2015-04-01,"Adams Telephone Message Books, 5 1/4” x 11”",10.00
-2016-11-01,"Adams Telephone Message Books, 5 1/4” x 11”",10.00
-2014-03-01,"Adams Telephone Message Books, 5 1/4” x 11”",14.00
-2014-11-01,"Adams Telephone Message Books, 5 1/4” x 11”",42.00
+2013-05-01,"Adams Telephone Message Books, 5 1/4√ì x 11√ì",5.00
+2015-04-01,"Adams Telephone Message Books, 5 1/4√ì x 11√ì",10.00
+2016-11-01,"Adams Telephone Message Books, 5 1/4√ì x 11√ì",10.00
+2014-03-01,"Adams Telephone Message Books, 5 1/4√ì x 11√ì",14.00
+2014-11-01,"Adams Telephone Message Books, 5 1/4√ì x 11√ì",42.00
 2013-11-01,"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",11.00
 2013-12-01,"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",11.00
 2016-10-01,"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",18.00
@@ -685,11 +685,11 @@ Month of Order Date,Product Name,Sales
 2014-03-01,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",18.00
 2016-03-01,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",18.00
 2015-09-01,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",31.00
-2015-06-01,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 _” x 11”",12.00
-2016-06-01,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 _” x 11”",12.00
-2014-06-01,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 _” x 11”",25.00
-2016-02-01,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 _” x 11”",37.00
-2016-05-01,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 _” x 11”",37.00
+2015-06-01,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 _√ì x 11√ì",12.00
+2016-06-01,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 _√ì x 11√ì",12.00
+2014-06-01,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 _√ì x 11√ì",25.00
+2016-02-01,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 _√ì x 11√ì",37.00
+2016-05-01,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 _√ì x 11√ì",37.00
 2016-06-01,"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",5.00
 2015-11-01,"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",9.00
 2013-09-01,"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",11.00
@@ -1716,9 +1716,9 @@ Month of Order Date,Product Name,Sales
 2016-05-01,Blackstonian Pencils,6.00
 2015-09-01,Blackstonian Pencils,19.00
 2015-12-01,Blackstonian Pencils,19.00
-2016-11-01,Blue Parrot B250XT Professional Grade Wireless Bluetooth Headset with,390.00
-2015-07-01,Blue Parrot B250XT Professional Grade Wireless Bluetooth Headset with,420.00
-2016-05-01,Blue Parrot B250XT Professional Grade Wireless Bluetooth Headset with,420.00
+2016-11-01,Blue Parrot B250XT Professional Grade Wireless Bluetooth√äHeadset√äwith,390.00
+2015-07-01,Blue Parrot B250XT Professional Grade Wireless Bluetooth√äHeadset√äwith,420.00
+2016-05-01,Blue Parrot B250XT Professional Grade Wireless Bluetooth√äHeadset√äwith,420.00
 2014-09-01,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",40.00
 2014-10-01,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",80.00
 2016-11-01,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",80.00
@@ -1828,10 +1828,10 @@ Month of Order Date,Product Name,Sales
 2014-05-01,"Bravo II Megaboss 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack",18.00
 2016-12-01,"Bravo II Megaboss 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack",23.00
 2015-11-01,"Bravo II Megaboss 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack",39.00
-2015-01-01,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,626.00
-2015-06-01,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,1336.00
-2016-12-01,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,1670.00
-2015-12-01,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,2004.00
+2015-01-01,Bretford √íJust In Time√ì Height-Adjustable Multi-Task Work Tables,626.00
+2015-06-01,Bretford √íJust In Time√ì Height-Adjustable Multi-Task Work Tables,1336.00
+2016-12-01,Bretford √íJust In Time√ì Height-Adjustable Multi-Task Work Tables,1670.00
+2015-12-01,Bretford √íJust In Time√ì Height-Adjustable Multi-Task Work Tables,2004.00
 2014-04-01,Bretford CR4500 Series Slim Rectangular Table,192.00
 2014-11-01,Bretford CR4500 Series Slim Rectangular Table,696.00
 2014-10-01,Bretford CR4500 Series Slim Rectangular Table,958.00
@@ -2163,9 +2163,9 @@ Month of Order Date,Product Name,Sales
 2016-09-01,Cisco IP Phone 7961G-GE VoIP phone,260.00
 2014-08-01,Cisco IP Phone 7961G-GE VoIP phone,520.00
 2014-11-01,Cisco IP Phone 7961G-GE VoIP phone,1213.00
-2015-06-01,Cisco IP Phone 7961G VoIP phone - Dark gray,136.00
-2013-12-01,Cisco IP Phone 7961G VoIP phone - Dark gray,272.00
-2013-11-01,Cisco IP Phone 7961G VoIP phone - Dark gray,979.00
+2015-06-01,Cisco IP√äPhone√ä7961G VoIP√äphone√ä- Dark gray,136.00
+2013-12-01,Cisco IP√äPhone√ä7961G VoIP√äphone√ä- Dark gray,272.00
+2013-11-01,Cisco IP√äPhone√ä7961G VoIP√äphone√ä- Dark gray,979.00
 2016-10-01,Cisco Small Business SPA 502G VoIP phone,62.00
 2014-12-01,Cisco Small Business SPA 502G VoIP phone,246.00
 2015-05-01,Cisco Small Business SPA 502G VoIP phone,246.00
@@ -2206,8 +2206,8 @@ Month of Order Date,Product Name,Sales
 2015-09-01,Clarity 53712,106.00
 2013-12-01,Clarity 53712,211.00
 2016-10-01,Clarity 53712,370.00
-2014-09-01,Classic Ivory Antique Telephone ZL1810,100.00
-2013-11-01,Classic Ivory Antique Telephone ZL1810,241.00
+2014-09-01,Classic Ivory Antique√äTelephone√äZL1810,100.00
+2013-11-01,Classic Ivory Antique√äTelephone√äZL1810,241.00
 2016-09-01,Clear Mylar Reinforcing Strips,6.00
 2014-10-01,Clear Mylar Reinforcing Strips,11.00
 2016-12-01,Clear Mylar Reinforcing Strips,15.00
@@ -2215,14 +2215,14 @@ Month of Order Date,Product Name,Sales
 2013-07-01,Clear Mylar Reinforcing Strips,90.00
 2015-07-01,Clear Mylar Reinforcing Strips,120.00
 2016-01-01,Clear Mylar Reinforcing Strips,120.00
-2015-05-01,ClearOne CHATAttach 160 - speaker phone,744.00
-2014-03-01,ClearOne CHATAttach 160 - speaker phone,1488.00
-2013-11-01,ClearOne CHATAttach 160 - speaker phone,1984.00
-2016-12-01,ClearOne CHATAttach 160 - speaker phone,2480.00
-2014-10-01,ClearOne Communications CHAT 70 OC Speaker Phone,159.00
-2016-06-01,ClearOne Communications CHAT 70 OC Speaker Phone,382.00
-2016-10-01,ClearOne Communications CHAT 70 OC Speaker Phone,509.00
-2015-08-01,ClearOne Communications CHAT 70 OC Speaker Phone,636.00
+2015-05-01,ClearOne CHATAttach 160 -√äspeaker phone,744.00
+2014-03-01,ClearOne CHATAttach 160 -√äspeaker phone,1488.00
+2013-11-01,ClearOne CHATAttach 160 -√äspeaker phone,1984.00
+2016-12-01,ClearOne CHATAttach 160 -√äspeaker phone,2480.00
+2014-10-01,ClearOne Communications CHAT 70 OC√äSpeaker Phone,159.00
+2016-06-01,ClearOne Communications CHAT 70 OC√äSpeaker Phone,382.00
+2016-10-01,ClearOne Communications CHAT 70 OC√äSpeaker Phone,509.00
+2015-08-01,ClearOne Communications CHAT 70 OC√äSpeaker Phone,636.00
 2015-04-01,Clearsounds A400,119.00
 2015-03-01,Clearsounds A400,158.00
 2016-03-01,Clearsounds A400,211.00
@@ -2853,9 +2853,9 @@ Month of Order Date,Product Name,Sales
 2016-12-01,"Eldon Image Series Desk Accessories, Burgundy",17.00
 2016-11-01,"Eldon Image Series Desk Accessories, Burgundy",21.00
 2014-12-01,"Eldon Image Series Desk Accessories, Burgundy",32.00
-2016-04-01,"Eldon Imàge Series Desk Accessories, Clear",12.00
-2014-11-01,"Eldon Imàge Series Desk Accessories, Clear",17.00
-2014-04-01,"Eldon Imàge Series Desk Accessories, Clear",24.00
+2016-04-01,"Eldon Im¬àge Series Desk Accessories, Clear",12.00
+2014-11-01,"Eldon Im¬àge Series Desk Accessories, Clear",17.00
+2014-04-01,"Eldon Im¬àge Series Desk Accessories, Clear",24.00
 2013-08-01,"Eldon Image Series Desk Accessories, Ebony",12.00
 2016-10-01,"Eldon Image Series Desk Accessories, Ebony",20.00
 2015-07-01,"Eldon Image Series Desk Accessories, Ebony",25.00
@@ -4164,11 +4164,11 @@ Month of Order Date,Product Name,Sales
 2013-07-01,"Hon 30"" x 60"" Table with Locking Drawer",273.00
 2013-09-01,"Hon 30"" x 60"" Table with Locking Drawer",409.00
 2013-03-01,"Hon 30"" x 60"" Table with Locking Drawer",614.00
-2013-07-01,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,674.00
-2015-08-01,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,787.00
-2014-06-01,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,1124.00
-2014-07-01,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,1349.00
-2016-11-01,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,1349.00
+2013-07-01,Hon 2090 √íPillow Soft√ì Series Mid Back Swivel/Tilt Chairs,674.00
+2015-08-01,Hon 2090 √íPillow Soft√ì Series Mid Back Swivel/Tilt Chairs,787.00
+2014-06-01,Hon 2090 √íPillow Soft√ì Series Mid Back Swivel/Tilt Chairs,1124.00
+2014-07-01,Hon 2090 √íPillow Soft√ì Series Mid Back Swivel/Tilt Chairs,1349.00
+2016-11-01,Hon 2090 √íPillow Soft√ì Series Mid Back Swivel/Tilt Chairs,1349.00
 2015-06-01,Hon 2111 Invitation Series Corner Table,377.00
 2013-07-01,Hon 2111 Invitation Series Corner Table,502.00
 2014-08-01,Hon 2111 Invitation Series Corner Table,1005.00
@@ -4651,61 +4651,61 @@ Month of Order Date,Product Name,Sales
 2016-12-01,"iKross Bluetooth Portable Keyboard + Cell Phone Stand Holder + Brush for Apple iPhone 5S 5C 5, 4S 4",67.00
 2015-10-01,"iKross Bluetooth Portable Keyboard + Cell Phone Stand Holder + Brush for Apple iPhone 5S 5C 5, 4S 4",126.00
 2014-04-01,"iKross Bluetooth Portable Keyboard + Cell Phone Stand Holder + Brush for Apple iPhone 5S 5C 5, 4S 4",210.00
-2014-11-01,Imation Bio 2GB USB Flash Drive Imation Corp,394.00
-2016-09-01,Imation Bio 2GB USB Flash Drive Imation Corp,656.00
-2016-03-01,Imation Bio 2GB USB Flash Drive Imation Corp,1049.00
-2014-03-01,Imation Bio 8GB USB Flash Drive Imation Corp,166.00
-2014-12-01,Imation Bio 8GB USB Flash Drive Imation Corp,166.00
-2014-07-01,Imation Bio 8GB USB Flash Drive Imation Corp,831.00
-2016-08-01,Imation Bio 8GB USB Flash Drive Imation Corp,1496.00
-2014-10-01,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,24.00
-2016-07-01,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,24.00
-2013-07-01,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,45.00
-2016-10-01,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,69.00
-2015-06-01,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,75.00
-2016-05-01,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,120.00
-2015-01-01,Imation 8GB Mini TravelDrive USB 2.0 Flash Drive,91.00
-2016-07-01,Imation 8GB Mini TravelDrive USB 2.0 Flash Drive,91.00
-2016-01-01,Imation 8GB Mini TravelDrive USB 2.0 Flash Drive,169.00
-2013-11-01,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,80.00
-2015-10-01,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,80.00
-2015-11-01,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,99.00
-2016-12-01,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,99.00
-2016-06-01,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,133.00
-2016-11-01,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,133.00
-2015-05-01,Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,384.00
-2015-05-01,Imation 32GB Pocket Pro USB 3.0 Flash Drive - 32 GB - Black - 1 P ...,48.00
-2014-11-01,Imation 32GB Pocket Pro USB 3.0 Flash Drive - 32 GB - Black - 1 P ...,60.00
-2015-12-01,Imation 32GB Pocket Pro USB 3.0 Flash Drive - 32 GB - Black - 1 P ...,120.00
-2013-12-01,Imation 32GB Pocket Pro USB 3.0 Flash Drive - 32 GB - Black - 1 P ...,240.00
-2015-06-01,Imation 30456 USB Flash Drive 8GB,7.00
-2015-12-01,Imation 30456 USB Flash Drive 8GB,17.00
-2015-09-01,Imation 30456 USB Flash Drive 8GB,21.00
-2013-05-01,Imation 30456 USB Flash Drive 8GB,28.00
-2013-03-01,Imation 30456 USB Flash Drive 8GB,83.00
-2014-08-01,Imation Clip USB flash drive - 8 GB,30.00
-2015-01-01,Imation Clip USB flash drive - 8 GB,30.00
-2014-11-01,Imation Clip USB flash drive - 8 GB,38.00
-2015-12-01,Imation Clip USB flash drive - 8 GB,45.00
-2013-05-01,Imation Clip USB flash drive - 8 GB,56.00
-2016-09-01,Imation Clip USB flash drive - 8 GB,113.00
-2015-05-01,Imation Clip USB flash drive - 8 GB,132.00
-2015-07-01,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,76.00
-2014-11-01,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,91.00
-2013-12-01,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,114.00
-2014-05-01,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,152.00
-2016-12-01,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,190.00
-2016-03-01,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,266.00
-2013-04-01,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,117.00
-2016-09-01,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,292.00
-2013-12-01,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,409.00
-2016-05-01,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,409.00
-2015-04-01,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,701.00
-2016-09-01,Imation Swivel Flash Drive USB flash drive - 8 GB,9.00
-2013-03-01,Imation Swivel Flash Drive USB flash drive - 8 GB,45.00
-2013-10-01,Imation USB 2.0 Swivel Flash Drive USB flash drive - 4 GB - Pink,9.00
-2016-01-01,Imation USB 2.0 Swivel Flash Drive USB flash drive - 4 GB - Pink,12.00
-2015-12-01,Imation USB 2.0 Swivel Flash Drive USB flash drive - 4 GB - Pink,21.00
+2014-11-01,Imation Bio 2GB USB√äFlash Drive Imation√äCorp,394.00
+2016-09-01,Imation Bio 2GB USB√äFlash Drive Imation√äCorp,656.00
+2016-03-01,Imation Bio 2GB USB√äFlash Drive Imation√äCorp,1049.00
+2014-03-01,Imation Bio 8GB USB√äFlash Drive Imation√äCorp,166.00
+2014-12-01,Imation Bio 8GB USB√äFlash Drive Imation√äCorp,166.00
+2014-07-01,Imation Bio 8GB USB√äFlash Drive Imation√äCorp,831.00
+2016-08-01,Imation Bio 8GB USB√äFlash Drive Imation√äCorp,1496.00
+2014-10-01,Imation√ä8gb Micro Traveldrive Usb 2.0√äFlash Drive,24.00
+2016-07-01,Imation√ä8gb Micro Traveldrive Usb 2.0√äFlash Drive,24.00
+2013-07-01,Imation√ä8gb Micro Traveldrive Usb 2.0√äFlash Drive,45.00
+2016-10-01,Imation√ä8gb Micro Traveldrive Usb 2.0√äFlash Drive,69.00
+2015-06-01,Imation√ä8gb Micro Traveldrive Usb 2.0√äFlash Drive,75.00
+2016-05-01,Imation√ä8gb Micro Traveldrive Usb 2.0√äFlash Drive,120.00
+2015-01-01,Imation√ä8GB Mini TravelDrive USB 2.0√äFlash Drive,91.00
+2016-07-01,Imation√ä8GB Mini TravelDrive USB 2.0√äFlash Drive,91.00
+2016-01-01,Imation√ä8GB Mini TravelDrive USB 2.0√äFlash Drive,169.00
+2013-11-01,Imation√ä16GB Mini TravelDrive USB 2.0√äFlash Drive,80.00
+2015-10-01,Imation√ä16GB Mini TravelDrive USB 2.0√äFlash Drive,80.00
+2015-11-01,Imation√ä16GB Mini TravelDrive USB 2.0√äFlash Drive,99.00
+2016-12-01,Imation√ä16GB Mini TravelDrive USB 2.0√äFlash Drive,99.00
+2016-06-01,Imation√ä16GB Mini TravelDrive USB 2.0√äFlash Drive,133.00
+2016-11-01,Imation√ä16GB Mini TravelDrive USB 2.0√äFlash Drive,133.00
+2015-05-01,Imation√ä16GB Mini TravelDrive USB 2.0√äFlash Drive,384.00
+2015-05-01,Imation√ä32GB Pocket Pro USB 3.0√äFlash Drive√ä- 32 GB - Black - 1 P ...,48.00
+2014-11-01,Imation√ä32GB Pocket Pro USB 3.0√äFlash Drive√ä- 32 GB - Black - 1 P ...,60.00
+2015-12-01,Imation√ä32GB Pocket Pro USB 3.0√äFlash Drive√ä- 32 GB - Black - 1 P ...,120.00
+2013-12-01,Imation√ä32GB Pocket Pro USB 3.0√äFlash Drive√ä- 32 GB - Black - 1 P ...,240.00
+2015-06-01,Imation√ä30456 USB√äFlash Drive√ä8GB,7.00
+2015-12-01,Imation√ä30456 USB√äFlash Drive√ä8GB,17.00
+2015-09-01,Imation√ä30456 USB√äFlash Drive√ä8GB,21.00
+2013-05-01,Imation√ä30456 USB√äFlash Drive√ä8GB,28.00
+2013-03-01,Imation√ä30456 USB√äFlash Drive√ä8GB,83.00
+2014-08-01,Imation√äClip USB√äflash drive√ä- 8 GB,30.00
+2015-01-01,Imation√äClip USB√äflash drive√ä- 8 GB,30.00
+2014-11-01,Imation√äClip USB√äflash drive√ä- 8 GB,38.00
+2015-12-01,Imation√äClip USB√äflash drive√ä- 8 GB,45.00
+2013-05-01,Imation√äClip USB√äflash drive√ä- 8 GB,56.00
+2016-09-01,Imation√äClip USB√äflash drive√ä- 8 GB,113.00
+2015-05-01,Imation√äClip USB√äflash drive√ä- 8 GB,132.00
+2015-07-01,Imation√äSecure√äDrive√ä+ Hardware Encrypted USB√äflash drive√ä- 16 GB,76.00
+2014-11-01,Imation√äSecure√äDrive√ä+ Hardware Encrypted USB√äflash drive√ä- 16 GB,91.00
+2013-12-01,Imation√äSecure√äDrive√ä+ Hardware Encrypted USB√äflash drive√ä- 16 GB,114.00
+2014-05-01,Imation√äSecure√äDrive√ä+ Hardware Encrypted USB√äflash drive√ä- 16 GB,152.00
+2016-12-01,Imation√äSecure√äDrive√ä+ Hardware Encrypted USB√äflash drive√ä- 16 GB,190.00
+2016-03-01,Imation√äSecure√äDrive√ä+ Hardware Encrypted USB√äflash drive√ä- 16 GB,266.00
+2013-04-01,Imation√äSecure+ Hardware Encrypted USB 2.0√äFlash Drive; 16GB,117.00
+2016-09-01,Imation√äSecure+ Hardware Encrypted USB 2.0√äFlash Drive; 16GB,292.00
+2013-12-01,Imation√äSecure+ Hardware Encrypted USB 2.0√äFlash Drive; 16GB,409.00
+2016-05-01,Imation√äSecure+ Hardware Encrypted USB 2.0√äFlash Drive; 16GB,409.00
+2015-04-01,Imation√äSecure+ Hardware Encrypted USB 2.0√äFlash Drive; 16GB,701.00
+2016-09-01,Imation√äSwivel√äFlash Drive√äUSB√äflash drive√ä- 8 GB,9.00
+2013-03-01,Imation√äSwivel√äFlash Drive√äUSB√äflash drive√ä- 8 GB,45.00
+2013-10-01,Imation√äUSB 2.0 Swivel√äFlash Drive√äUSB√äflash drive√ä- 4 GB - Pink,9.00
+2016-01-01,Imation√äUSB 2.0 Swivel√äFlash Drive√äUSB√äflash drive√ä- 4 GB - Pink,12.00
+2015-12-01,Imation√äUSB 2.0 Swivel√äFlash Drive√äUSB√äflash drive√ä- 4 GB - Pink,21.00
 2014-07-01,"Important Message Pads, 50 4-1/4 x 5-1/2 Forms per Pad",7.00
 2014-08-01,"Important Message Pads, 50 4-1/4 x 5-1/2 Forms per Pad",8.00
 2014-12-01,"Important Message Pads, 50 4-1/4 x 5-1/2 Forms per Pad",13.00
@@ -4764,9 +4764,9 @@ Month of Order Date,Product Name,Sales
 2016-02-01,"It's Hot Message Books with Stickers, 2 3/4"" x 5""",30.00
 2014-01-01,"It's Hot Message Books with Stickers, 2 3/4"" x 5""",30.00
 2014-11-01,"It's Hot Message Books with Stickers, 2 3/4"" x 5""",37.00
-2014-11-01,Jabra BIZ 2300 Duo QD Duo Corded Headset,305.00
-2016-12-01,Jabra BIZ 2300 Duo QD Duo Corded Headset,406.00
-2015-03-01,Jabra BIZ 2300 Duo QD Duo Corded Headset,1016.00
+2014-11-01,Jabra BIZ 2300 Duo QD Duo Corded√äHeadset,305.00
+2016-12-01,Jabra BIZ 2300 Duo QD Duo Corded√äHeadset,406.00
+2015-03-01,Jabra BIZ 2300 Duo QD Duo Corded√äHeadset,1016.00
 2014-10-01,Jabra SPEAK 410,150.00
 2013-01-01,Jabra SPEAK 410,188.00
 2014-06-01,Jabra SPEAK 410,226.00
@@ -4777,11 +4777,11 @@ Month of Order Date,Product Name,Sales
 2016-11-01,Jabra SPEAK 410 Multidevice Speakerphone,371.00
 2015-07-01,Jabra SPEAK 410 Multidevice Speakerphone,824.00
 2016-10-01,Jabra SPEAK 410 Multidevice Speakerphone,824.00
-2016-05-01,Jabra Supreme Plus Driver Edition Headset,96.00
-2015-11-01,Jabra Supreme Plus Driver Edition Headset,360.00
-2016-11-01,Jabra Supreme Plus Driver Edition Headset,360.00
-2013-12-01,Jabra Supreme Plus Driver Edition Headset,480.00
-2015-12-01,Jabra Supreme Plus Driver Edition Headset,864.00
+2016-05-01,Jabra Supreme Plus Driver Edition√äHeadset,96.00
+2015-11-01,Jabra Supreme Plus Driver Edition√äHeadset,360.00
+2016-11-01,Jabra Supreme Plus Driver Edition√äHeadset,360.00
+2013-12-01,Jabra Supreme Plus Driver Edition√äHeadset,480.00
+2015-12-01,Jabra Supreme Plus Driver Edition√äHeadset,864.00
 2014-03-01,Jackery Bar Premium Fast-charging Portable Charger,96.00
 2016-10-01,Jackery Bar Premium Fast-charging Portable Charger,96.00
 2016-12-01,Jackery Bar Premium Fast-charging Portable Charger,96.00
@@ -4799,9 +4799,9 @@ Month of Order Date,Product Name,Sales
 2013-09-01,JBL Micro Wireless Portable Bluetooth Speaker,144.00
 2014-06-01,JBL Micro Wireless Portable Bluetooth Speaker,144.00
 2015-12-01,JBL Micro Wireless Portable Bluetooth Speaker,180.00
-2014-12-01,Jensen SMPS-640 - speaker phone,110.00
-2015-12-01,Jensen SMPS-640 - speaker phone,138.00
-2016-01-01,Jensen SMPS-640 - speaker phone,248.00
+2014-12-01,Jensen SMPS-640 -√äspeaker phone,110.00
+2015-12-01,Jensen SMPS-640 -√äspeaker phone,138.00
+2016-01-01,Jensen SMPS-640 -√äspeaker phone,248.00
 2015-12-01,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,36.00
 2016-09-01,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,115.00
 2014-05-01,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,201.00
@@ -4862,18 +4862,18 @@ Month of Order Date,Product Name,Sales
 2013-03-01,Kensington SlimBlade Notebook Wireless Mouse with Nano Receiver,80.00
 2014-02-01,Kensington SlimBlade Notebook Wireless Mouse with Nano Receiver,150.00
 2015-11-01,Kensington SlimBlade Notebook Wireless Mouse with Nano Receiver,280.00
-2016-11-01,KeyTronic 6101 Series - Keyboard - Black,164.00
-2013-06-01,KeyTronic 6101 Series - Keyboard - Black,197.00
-2016-10-01,KeyTronic E03601U1 - Keyboard - Beige,36.00
-2014-09-01,KeyTronic E03601U1 - Keyboard - Beige,90.00
-2016-09-01,KeyTronic E03601U1 - Keyboard - Beige,90.00
-2015-11-01,KeyTronic E03601U1 - Keyboard - Beige,108.00
-2013-11-01,KeyTronic KT400U2 - Keyboard - Black,25.00
-2015-07-01,KeyTronic KT400U2 - Keyboard - Black,31.00
-2013-08-01,KeyTronic KT400U2 - Keyboard - Black,93.00
-2014-03-01,KeyTronic KT800P2 - Keyboard - Black,15.00
-2015-11-01,KeyTronic KT800P2 - Keyboard - Black,24.00
-2016-05-01,KeyTronic KT800P2 - Keyboard - Black,36.00
+2016-11-01,KeyTronic√ä6101 Series -√äKeyboard√ä- Black,164.00
+2013-06-01,KeyTronic√ä6101 Series -√äKeyboard√ä- Black,197.00
+2016-10-01,KeyTronic√äE03601U1 -√äKeyboard√ä- Beige,36.00
+2014-09-01,KeyTronic√äE03601U1 -√äKeyboard√ä- Beige,90.00
+2016-09-01,KeyTronic√äE03601U1 -√äKeyboard√ä- Beige,90.00
+2015-11-01,KeyTronic√äE03601U1 -√äKeyboard√ä- Beige,108.00
+2013-11-01,KeyTronic√äKT400U2 -√äKeyboard√ä- Black,25.00
+2015-07-01,KeyTronic√äKT400U2 -√äKeyboard√ä- Black,31.00
+2013-08-01,KeyTronic√äKT400U2 -√äKeyboard√ä- Black,93.00
+2014-03-01,KeyTronic√äKT800P2 -√äKeyboard√ä- Black,15.00
+2015-11-01,KeyTronic√äKT800P2 -√äKeyboard√ä- Black,24.00
+2016-05-01,KeyTronic√äKT800P2 -√äKeyboard√ä- Black,36.00
 2014-12-01,KI Adjustable-Height Table,52.00
 2014-09-01,KI Adjustable-Height Table,86.00
 2013-04-01,KI Adjustable-Height Table,155.00
@@ -4926,9 +4926,9 @@ Month of Order Date,Product Name,Sales
 2015-06-01,KLD Oscar II Style Snap-on Ultra Thin Side Flip Synthetic Leather Cover Case for HTC One HTC M7,68.00
 2016-05-01,Kleencut Forged Office Shears by Acme United Corporation,3.00
 2015-09-01,Kleencut Forged Office Shears by Acme United Corporation,6.00
-2016-09-01,Konftel 250 Conference phone - Charcoal black,456.00
-2014-04-01,Konftel 250 Conference phone - Charcoal black,570.00
-2013-06-01,Konftel 250 Conference phone - Charcoal black,1196.00
+2016-09-01,Konftel 250 Conference√äphone√ä- Charcoal black,456.00
+2014-04-01,Konftel 250 Conference√äphone√ä- Charcoal black,570.00
+2013-06-01,Konftel 250 Conference√äphone√ä- Charcoal black,1196.00
 2015-11-01,Konica Minolta magicolor 1690MF Multifunction Printer,320.00
 2014-04-01,Laminate Occasional Tables,370.00
 2015-11-01,Laminate Occasional Tables,863.00
@@ -5044,15 +5044,15 @@ Month of Order Date,Product Name,Sales
 2015-02-01,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,180.00
 2014-07-01,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,210.00
 2013-12-01,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,240.00
-2016-05-01,"Logitech B530 USB Headset - headset - Full size, Binaural",30.00
-2015-01-01,"Logitech B530 USB Headset - headset - Full size, Binaural",59.00
-2013-07-01,"Logitech B530 USB Headset - headset - Full size, Binaural",74.00
-2014-12-01,"Logitech B530 USB Headset - headset - Full size, Binaural",74.00
-2014-04-01,"Logitech B530 USB Headset - headset - Full size, Binaural",89.00
-2016-02-01,"Logitech B530 USB Headset - headset - Full size, Binaural",89.00
-2016-06-01,"Logitech B530 USB Headset - headset - Full size, Binaural",89.00
-2014-11-01,"Logitech B530 USB Headset - headset - Full size, Binaural",111.00
-2013-11-01,"Logitech B530 USB Headset - headset - Full size, Binaural",126.00
+2016-05-01,"Logitech B530 USB√äHeadset√ä-√äheadset√ä- Full size, Binaural",30.00
+2015-01-01,"Logitech B530 USB√äHeadset√ä-√äheadset√ä- Full size, Binaural",59.00
+2013-07-01,"Logitech B530 USB√äHeadset√ä-√äheadset√ä- Full size, Binaural",74.00
+2014-12-01,"Logitech B530 USB√äHeadset√ä-√äheadset√ä- Full size, Binaural",74.00
+2014-04-01,"Logitech B530 USB√äHeadset√ä-√äheadset√ä- Full size, Binaural",89.00
+2016-02-01,"Logitech B530 USB√äHeadset√ä-√äheadset√ä- Full size, Binaural",89.00
+2016-06-01,"Logitech B530 USB√äHeadset√ä-√äheadset√ä- Full size, Binaural",89.00
+2014-11-01,"Logitech B530 USB√äHeadset√ä-√äheadset√ä- Full size, Binaural",111.00
+2013-11-01,"Logitech B530 USB√äHeadset√ä-√äheadset√ä- Full size, Binaural",126.00
 2015-06-01,Logitech ClearChat Comfort/USB Headset H390,29.00
 2013-05-01,Logitech ClearChat Comfort/USB Headset H390,47.00
 2015-03-01,Logitech ClearChat Comfort/USB Headset H390,59.00
@@ -5142,11 +5142,11 @@ Month of Order Date,Product Name,Sales
 2014-11-01,Logitech Media Keyboard K200,84.00
 2016-11-01,Logitech Media Keyboard K200,140.00
 2016-10-01,Logitech Media Keyboard K200,210.00
-2015-07-01,Logitech Mobile Speakerphone P710e - speaker phone,108.00
-2016-02-01,Logitech Mobile Speakerphone P710e - speaker phone,216.00
-2015-11-01,Logitech Mobile Speakerphone P710e - speaker phone,405.00
-2013-11-01,Logitech Mobile Speakerphone P710e - speaker phone,540.00
-2014-11-01,Logitech Mobile Speakerphone P710e - speaker phone,648.00
+2015-07-01,Logitech Mobile Speakerphone P710e -√äspeaker phone,108.00
+2016-02-01,Logitech Mobile Speakerphone P710e -√äspeaker phone,216.00
+2015-11-01,Logitech Mobile Speakerphone P710e -√äspeaker phone,405.00
+2013-11-01,Logitech Mobile Speakerphone P710e -√äspeaker phone,540.00
+2014-11-01,Logitech Mobile Speakerphone P710e -√äspeaker phone,648.00
 2013-09-01,Logitech Trackman Marble Mouse,48.00
 2015-08-01,Logitech Trackman Marble Mouse,48.00
 2015-12-01,Logitech Trackman Marble Mouse,60.00
@@ -5185,51 +5185,51 @@ Month of Order Date,Product Name,Sales
 2016-10-01,Logitech Wireless Touch Keyboard K400,40.00
 2013-09-01,Logitech Wireless Touch Keyboard K400,50.00
 2016-04-01,Logitech Wireless Touch Keyboard K400,275.00
-2016-12-01,Logitech Gaming G510s - Keyboard,85.00
-2015-01-01,Logitech Gaming G510s - Keyboard,255.00
-2015-08-01,Logitech Gaming G510s - Keyboard,255.00
-2016-05-01,Logitech Gaming G510s - Keyboard,272.00
-2013-08-01,Logitech Gaming G510s - Keyboard,340.00
-2014-05-01,Logitech Gaming G510s - Keyboard,340.00
-2014-10-01,Logitech Gaming G510s - Keyboard,340.00
-2013-09-01,Logitech Gaming G510s - Keyboard,476.00
-2016-12-01,Logitech Illuminated - Keyboard,120.00
-2013-10-01,Logitech Illuminated - Keyboard,180.00
-2015-08-01,Logitech Illuminated - Keyboard,180.00
-2016-01-01,Logitech Illuminated - Keyboard,180.00
-2016-10-01,Logitech Illuminated - Keyboard,240.00
-2016-11-01,Logitech Illuminated - Keyboard,240.00
-2014-09-01,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,20.00
-2016-10-01,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,20.00
-2016-12-01,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,40.00
-2016-04-01,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,48.00
-2016-09-01,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,80.00
-2016-06-01,Logitech MX Performance Wireless Mouse,40.00
-2016-10-01,Logitech MX Performance Wireless Mouse,64.00
-2016-08-01,Logitech MX Performance Wireless Mouse,80.00
-2016-04-01,Logitech MX Performance Wireless Mouse,96.00
-2015-09-01,Logitech MX Performance Wireless Mouse,160.00
-2016-05-01,Logitech MX Performance Wireless Mouse,160.00
-2015-01-01,Logitech MX Performance Wireless Mouse,191.00
-2014-09-01,Logitech P710e Mobile Speakerphone,618.00
-2016-04-01,Logitech P710e Mobile Speakerphone,618.00
-2013-11-01,Logitech P710e Mobile Speakerphone,772.00
-2015-12-01,Logitech P710e Mobile Speakerphone,772.00
-2015-03-01,Logitech P710e Mobile Speakerphone,1287.00
-2016-07-01,Logitech P710e Mobile Speakerphone,1287.00
-2016-06-01,Logitech P710e Mobile Speakerphone,1493.00
-2015-09-01,Logitech P710e Mobile Speakerphone,3347.00
-2015-10-01,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),360.00
-2015-05-01,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),432.00
-2015-09-01,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),432.00
-2014-11-01,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),900.00
-2014-12-01,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),1620.00
-2013-03-01,"Logitech Wireless Boombox Speaker - portable - wireless, wired",170.00
-2016-09-01,"Logitech Wireless Boombox Speaker - portable - wireless, wired",213.00
-2014-06-01,Logitech Z-906 Speaker sys - home theater - 5.1-CH,990.00
-2015-11-01,Logitech Z-906 Speaker sys - home theater - 5.1-CH,1320.00
-2015-12-01,Logitech Z-906 Speaker sys - home theater - 5.1-CH,1650.00
-2016-07-01,Logitech Z-906 Speaker sys - home theater - 5.1-CH,1650.00
+2016-12-01,Logitech√äGaming G510s - Keyboard,85.00
+2015-01-01,Logitech√äGaming G510s - Keyboard,255.00
+2015-08-01,Logitech√äGaming G510s - Keyboard,255.00
+2016-05-01,Logitech√äGaming G510s - Keyboard,272.00
+2013-08-01,Logitech√äGaming G510s - Keyboard,340.00
+2014-05-01,Logitech√äGaming G510s - Keyboard,340.00
+2014-10-01,Logitech√äGaming G510s - Keyboard,340.00
+2013-09-01,Logitech√äGaming G510s - Keyboard,476.00
+2016-12-01,Logitech√äIlluminated - Keyboard,120.00
+2013-10-01,Logitech√äIlluminated - Keyboard,180.00
+2015-08-01,Logitech√äIlluminated - Keyboard,180.00
+2016-01-01,Logitech√äIlluminated - Keyboard,180.00
+2016-10-01,Logitech√äIlluminated - Keyboard,240.00
+2016-11-01,Logitech√äIlluminated - Keyboard,240.00
+2014-09-01,Logitech√äLS21 Speaker System - PC Multimedia - 2.1-CH - Wired,20.00
+2016-10-01,Logitech√äLS21 Speaker System - PC Multimedia - 2.1-CH - Wired,20.00
+2016-12-01,Logitech√äLS21 Speaker System - PC Multimedia - 2.1-CH - Wired,40.00
+2016-04-01,Logitech√äLS21 Speaker System - PC Multimedia - 2.1-CH - Wired,48.00
+2016-09-01,Logitech√äLS21 Speaker System - PC Multimedia - 2.1-CH - Wired,80.00
+2016-06-01,Logitech√äMX Performance Wireless Mouse,40.00
+2016-10-01,Logitech√äMX Performance Wireless Mouse,64.00
+2016-08-01,Logitech√äMX Performance Wireless Mouse,80.00
+2016-04-01,Logitech√äMX Performance Wireless Mouse,96.00
+2015-09-01,Logitech√äMX Performance Wireless Mouse,160.00
+2016-05-01,Logitech√äMX Performance Wireless Mouse,160.00
+2015-01-01,Logitech√äMX Performance Wireless Mouse,191.00
+2014-09-01,Logitech√äP710e Mobile Speakerphone,618.00
+2016-04-01,Logitech√äP710e Mobile Speakerphone,618.00
+2013-11-01,Logitech√äP710e Mobile Speakerphone,772.00
+2015-12-01,Logitech√äP710e Mobile Speakerphone,772.00
+2015-03-01,Logitech√äP710e Mobile Speakerphone,1287.00
+2016-07-01,Logitech√äP710e Mobile Speakerphone,1287.00
+2016-06-01,Logitech√äP710e Mobile Speakerphone,1493.00
+2015-09-01,Logitech√äP710e Mobile Speakerphone,3347.00
+2015-10-01,Logitech√äVX Revolution Cordless Laser Mouse for Notebooks (Black),360.00
+2015-05-01,Logitech√äVX Revolution Cordless Laser Mouse for Notebooks (Black),432.00
+2015-09-01,Logitech√äVX Revolution Cordless Laser Mouse for Notebooks (Black),432.00
+2014-11-01,Logitech√äVX Revolution Cordless Laser Mouse for Notebooks (Black),900.00
+2014-12-01,Logitech√äVX Revolution Cordless Laser Mouse for Notebooks (Black),1620.00
+2013-03-01,"Logitech√äWireless Boombox Speaker - portable - wireless, wired",170.00
+2016-09-01,"Logitech√äWireless Boombox Speaker - portable - wireless, wired",213.00
+2014-06-01,Logitech√äZ-906 Speaker sys - home theater - 5.1-CH,990.00
+2015-11-01,Logitech√äZ-906 Speaker sys - home theater - 5.1-CH,1320.00
+2015-12-01,Logitech√äZ-906 Speaker sys - home theater - 5.1-CH,1650.00
+2016-07-01,Logitech√äZ-906 Speaker sys - home theater - 5.1-CH,1650.00
 2013-09-01,Longer-Life Soft White Bulbs,6.00
 2014-04-01,Longer-Life Soft White Bulbs,6.00
 2014-08-01,Longer-Life Soft White Bulbs,6.00
@@ -5379,16 +5379,16 @@ Month of Order Date,Product Name,Sales
 2016-05-01,"Maxell Pro 80 Minute CD-R, 10/Pack",87.00
 2016-12-01,"Maxell Pro 80 Minute CD-R, 10/Pack",105.00
 2013-09-01,"Maxell Pro 80 Minute CD-R, 10/Pack",154.00
-2016-11-01,Maxell iVDR EX 500GB Cartridge,827.00
-2016-09-01,Maxell iVDR EX 500GB Cartridge,1929.00
-2016-11-01,Maxell LTO Ultrium - 800 GB,45.00
-2016-06-01,Maxell LTO Ultrium - 800 GB,84.00
-2016-09-01,Maxell LTO Ultrium - 800 GB,90.00
-2014-11-01,Maxell LTO Ultrium - 800 GB,112.00
-2016-03-01,Maxell LTO Ultrium - 800 GB,112.00
-2014-02-01,Maxell LTO Ultrium - 800 GB,140.00
-2013-10-01,Maxell LTO Ultrium - 800 GB,252.00
-2014-08-01,Maxell LTO Ultrium - 800 GB,252.00
+2016-11-01,Maxell√äiVDR EX 500GB Cartridge,827.00
+2016-09-01,Maxell√äiVDR EX 500GB Cartridge,1929.00
+2016-11-01,Maxell√äLTO Ultrium - 800 GB,45.00
+2016-06-01,Maxell√äLTO Ultrium - 800 GB,84.00
+2016-09-01,Maxell√äLTO Ultrium - 800 GB,90.00
+2014-11-01,Maxell√äLTO Ultrium - 800 GB,112.00
+2016-03-01,Maxell√äLTO Ultrium - 800 GB,112.00
+2014-02-01,Maxell√äLTO Ultrium - 800 GB,140.00
+2013-10-01,Maxell√äLTO Ultrium - 800 GB,252.00
+2014-08-01,Maxell√äLTO Ultrium - 800 GB,252.00
 2016-11-01,"Mead 1st Gear 2"" Zipper Binder, Asst. Colors",23.00
 2016-08-01,"Mead 1st Gear 2"" Zipper Binder, Asst. Colors",31.00
 2015-10-01,Mediabridge Sport Armband iPhone 5s,24.00
@@ -5398,9 +5398,9 @@ Month of Order Date,Product Name,Sales
 2015-09-01,Mediabridge Sport Armband iPhone 5s,30.00
 2014-10-01,Mediabridge Sport Armband iPhone 5s,56.00
 2015-02-01,Mediabridge Sport Armband iPhone 5s,70.00
-2015-03-01,"Memo Book, 100 Message Capacity, 5 3/8” x 11”",13.00
-2013-02-01,"Memo Book, 100 Message Capacity, 5 3/8” x 11”",16.00
-2013-03-01,"Memo Book, 100 Message Capacity, 5 3/8” x 11”",47.00
+2015-03-01,"Memo Book, 100 Message Capacity, 5 3/8√ì x 11√ì",13.00
+2013-02-01,"Memo Book, 100 Message Capacity, 5 3/8√ì x 11√ì",16.00
+2013-03-01,"Memo Book, 100 Message Capacity, 5 3/8√ì x 11√ì",47.00
 2013-10-01,"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 15/Pack",41.00
 2016-11-01,"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 15/Pack",41.00
 2015-10-01,"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 15/Pack",68.00
@@ -5590,10 +5590,10 @@ Month of Order Date,Product Name,Sales
 2016-08-01,"Neat Ideas Personal Hanging Folder Files, Black",105.00
 2016-03-01,"Neat Ideas Personal Hanging Folder Files, Black",140.00
 2014-11-01,NeatDesk Desktop Scanner & Digital Filing System,480.00
-2016-11-01,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,160.00
-2015-08-01,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,480.00
-2015-11-01,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,480.00
-2013-07-01,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,1504.00
+2016-11-01,NETGEAR AC1750 Dual Band Gigabit√äSmart WiFi Router,160.00
+2015-08-01,NETGEAR AC1750 Dual Band Gigabit√äSmart WiFi Router,480.00
+2015-11-01,NETGEAR AC1750 Dual Band Gigabit√äSmart WiFi Router,480.00
+2013-07-01,NETGEAR AC1750 Dual Band Gigabit√äSmart WiFi Router,1504.00
 2015-11-01,NETGEAR N750 Dual Band Wi-Fi Gigabit Router,72.00
 2013-11-01,NETGEAR N750 Dual Band Wi-Fi Gigabit Router,360.00
 2016-04-01,NETGEAR N750 Dual Band Wi-Fi Gigabit Router,360.00
@@ -6168,7 +6168,7 @@ Month of Order Date,Product Name,Sales
 2016-08-01,"Padded Folding Chairs, Black, 4/Carton",389.00
 2014-11-01,"Padded Folding Chairs, Black, 4/Carton",397.00
 2013-09-01,"Padded Folding Chairs, Black, 4/Carton",502.00
-2016-11-01,Panasonic Business Telephones KX-T7736,546.00
+2016-11-01,Panasonic Business√äTelephones√äKX-T7736,546.00
 2013-01-01,Panasonic KP-4ABK Battery-Operated Pencil Sharpener,44.00
 2016-05-01,Panasonic KP-4ABK Battery-Operated Pencil Sharpener,44.00
 2015-04-01,Panasonic KP-4ABK Battery-Operated Pencil Sharpener,73.00
@@ -6359,17 +6359,17 @@ Month of Order Date,Product Name,Sales
 2016-05-01,Plantronics Calisto P620-M USB Wireless Speakerphone System,588.00
 2014-04-01,Plantronics Calisto P620-M USB Wireless Speakerphone System,784.00
 2016-11-01,Plantronics Calisto P620-M USB Wireless Speakerphone System,980.00
-2015-10-01,Plantronics Cordless Phone Headset with In-line Volume - M214C,70.00
-2013-09-01,Plantronics Cordless Phone Headset with In-line Volume - M214C,105.00
-2015-02-01,Plantronics Cordless Phone Headset with In-line Volume - M214C,105.00
-2016-09-01,Plantronics Cordless Phone Headset with In-line Volume - M214C,105.00
-2013-06-01,Plantronics Cordless Phone Headset with In-line Volume - M214C,140.00
-2015-12-01,Plantronics Cordless Phone Headset with In-line Volume - M214C,384.00
-2013-08-01,"Plantronics CS 50-USB - headset - Convertible, Monaural",136.00
-2014-07-01,"Plantronics CS 50-USB - headset - Convertible, Monaural",136.00
-2013-12-01,"Plantronics CS 50-USB - headset - Convertible, Monaural",218.00
-2014-06-01,"Plantronics CS 50-USB - headset - Convertible, Monaural",218.00
-2016-11-01,"Plantronics CS 50-USB - headset - Convertible, Monaural",762.00
+2015-10-01,Plantronics Cordless√äPhone Headset√äwith In-line Volume - M214C,70.00
+2013-09-01,Plantronics Cordless√äPhone Headset√äwith In-line Volume - M214C,105.00
+2015-02-01,Plantronics Cordless√äPhone Headset√äwith In-line Volume - M214C,105.00
+2016-09-01,Plantronics Cordless√äPhone Headset√äwith In-line Volume - M214C,105.00
+2013-06-01,Plantronics Cordless√äPhone Headset√äwith In-line Volume - M214C,140.00
+2015-12-01,Plantronics Cordless√äPhone Headset√äwith In-line Volume - M214C,384.00
+2013-08-01,"Plantronics CS 50-USB -√äheadset√ä- Convertible, Monaural",136.00
+2014-07-01,"Plantronics CS 50-USB -√äheadset√ä- Convertible, Monaural",136.00
+2013-12-01,"Plantronics CS 50-USB -√äheadset√ä- Convertible, Monaural",218.00
+2014-06-01,"Plantronics CS 50-USB -√äheadset√ä- Convertible, Monaural",218.00
+2016-11-01,"Plantronics CS 50-USB -√äheadset√ä- Convertible, Monaural",762.00
 2013-12-01,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,264.00
 2016-07-01,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,528.00
 2014-09-01,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,660.00
@@ -6380,12 +6380,12 @@ Month of Order Date,Product Name,Sales
 2015-10-01,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,1650.00
 2015-05-01,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,1980.00
 2014-07-01,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,2310.00
-2013-05-01,Plantronics Encore H101 Dual Earpieces Headset,45.00
-2016-09-01,Plantronics Encore H101 Dual Earpieces Headset,90.00
-2016-11-01,Plantronics Encore H101 Dual Earpieces Headset,108.00
-2015-03-01,Plantronics Encore H101 Dual Earpieces Headset,135.00
-2016-08-01,Plantronics Encore H101 Dual Earpieces Headset,144.00
-2015-09-01,Plantronics Encore H101 Dual Earpieces Headset,225.00
+2013-05-01,Plantronics Encore H101 Dual Earpieces√äHeadset,45.00
+2016-09-01,Plantronics Encore H101 Dual Earpieces√äHeadset,90.00
+2016-11-01,Plantronics Encore H101 Dual Earpieces√äHeadset,108.00
+2015-03-01,Plantronics Encore H101 Dual Earpieces√äHeadset,135.00
+2016-08-01,Plantronics Encore H101 Dual Earpieces√äHeadset,144.00
+2015-09-01,Plantronics Encore H101 Dual Earpieces√äHeadset,225.00
 2014-12-01,Plantronics HL10 Handset Lifter,371.00
 2013-10-01,Plantronics HL10 Handset Lifter,742.00
 2013-05-01,Plantronics HL10 Handset Lifter,1114.00
@@ -6465,14 +6465,14 @@ Month of Order Date,Product Name,Sales
 2015-08-01,Polycom SoundPoint Pro SE-225 Corded phone,119.00
 2016-07-01,Polycom SoundPoint Pro SE-225 Corded phone,286.00
 2013-11-01,Polycom SoundPoint Pro SE-225 Corded phone,1499.00
-2014-12-01,Polycom SoundStation2 EX Conference phone,486.00
-2014-06-01,Polycom SoundStation2 EX Conference phone,972.00
-2013-06-01,Polycom SoundStation2 EX Conference phone,1215.00
-2014-10-01,Polycom SoundStation2 EX Conference phone,1296.00
-2013-03-01,Polycom VoiceStation 500 Conference phone,472.00
-2014-09-01,Polycom VoiceStation 500 Conference phone,590.00
-2016-08-01,Polycom VoiceStation 500 Conference phone,708.00
-2016-09-01,Polycom VoiceStation 500 Conference phone,1888.00
+2014-12-01,Polycom SoundStation2 EX Conference√äphone,486.00
+2014-06-01,Polycom SoundStation2 EX Conference√äphone,972.00
+2013-06-01,Polycom SoundStation2 EX Conference√äphone,1215.00
+2014-10-01,Polycom SoundStation2 EX Conference√äphone,1296.00
+2013-03-01,Polycom VoiceStation 500 Conference√äphone,472.00
+2014-09-01,Polycom VoiceStation 500 Conference√äphone,590.00
+2016-08-01,Polycom VoiceStation 500 Conference√äphone,708.00
+2016-09-01,Polycom VoiceStation 500 Conference√äphone,1888.00
 2014-01-01,Polycom VVX 310 VoIP phone,432.00
 2015-03-01,Polycom VVX 310 VoIP phone,432.00
 2015-09-01,Polycom VVX 310 VoIP phone,720.00
@@ -6488,8 +6488,8 @@ Month of Order Date,Product Name,Sales
 2013-08-01,Portable Personal File Box,49.00
 2015-08-01,Portfile Personal File Boxes,14.00
 2014-11-01,Portfile Personal File Boxes,85.00
-2016-10-01,"Post-it “Important Message” Note Pad, Neon Colors, 50 Sheets/Pad",12.00
-2016-09-01,"Post-it “Important Message” Note Pad, Neon Colors, 50 Sheets/Pad",51.00
+2016-10-01,"Post-it √íImportant Message√ì Note Pad, Neon Colors, 50 Sheets/Pad",12.00
+2016-09-01,"Post-it √íImportant Message√ì Note Pad, Neon Colors, 50 Sheets/Pad",51.00
 2013-03-01,PowerGen Dual USB Car Charger,10.00
 2015-04-01,PowerGen Dual USB Car Charger,40.00
 2016-03-01,PowerGen Dual USB Car Charger,78.00
@@ -6632,7 +6632,7 @@ Month of Order Date,Product Name,Sales
 2015-03-01,Pyle PMP37LED,480.00
 2016-03-01,Pyle PMP37LED,538.00
 2013-04-01,Pyle PMP37LED,1075.00
-2014-06-01,Pyle PRT45 Retro Home Telephone,202.00
+2014-06-01,Pyle PRT45 Retro Home√äTelephone,202.00
 2015-07-01,Quality Park Security Envelopes,21.00
 2015-01-01,Quality Park Security Envelopes,52.00
 2013-11-01,Quality Park Security Envelopes,63.00
@@ -7345,11 +7345,11 @@ Month of Order Date,Product Name,Sales
 2013-11-01,Southworth 100% Cotton The Best Paper,34.00
 2014-10-01,Southworth 100% Cotton The Best Paper,34.00
 2015-05-01,Southworth 100% Cotton The Best Paper,83.00
-2016-02-01,"Southworth 100% Résumé Paper, 24lb.",8.00
-2016-11-01,"Southworth 100% Résumé Paper, 24lb.",8.00
-2016-12-01,"Southworth 100% Résumé Paper, 24lb.",39.00
-2013-11-01,"Southworth 100% Résumé Paper, 24lb.",100.00
-2013-03-01,"Southworth 100% Résumé Paper, 24lb.",109.00
+2016-02-01,"Southworth 100% R¬ésum¬é Paper, 24lb.",8.00
+2016-11-01,"Southworth 100% R¬ésum¬é Paper, 24lb.",8.00
+2016-12-01,"Southworth 100% R¬ésum¬é Paper, 24lb.",39.00
+2013-11-01,"Southworth 100% R¬ésum¬é Paper, 24lb.",100.00
+2013-03-01,"Southworth 100% R¬ésum¬é Paper, 24lb.",109.00
 2014-03-01,Southworth Parchment Paper & Envelopes,5.00
 2015-05-01,Southworth Parchment Paper & Envelopes,13.00
 2015-09-01,Southworth Parchment Paper & Envelopes,13.00
@@ -7434,8 +7434,8 @@ Month of Order Date,Product Name,Sales
 2015-04-01,Stacking Trays by OIC,10.00
 2015-11-01,Stacking Trays by OIC,20.00
 2013-12-01,Stacking Trays by OIC,25.00
-2016-12-01,Standard Line “While You Were Out” Hardbound Telephone Message Book,88.00
-2015-04-01,Standard Line “While You Were Out” Hardbound Telephone Message Book,123.00
+2016-12-01,Standard Line √íWhile You Were Out√ì Hardbound Telephone Message Book,88.00
+2015-04-01,Standard Line √íWhile You Were Out√ì Hardbound Telephone Message Book,123.00
 2014-12-01,Standard Rollaway File with Lock,360.00
 2015-06-01,Standard Rollaway File with Lock,360.00
 2016-07-01,Standard Rollaway File with Lock,360.00
@@ -7921,12 +7921,12 @@ Month of Order Date,Product Name,Sales
 2014-03-01,Tops Wirebound Message Log Books,10.00
 2015-07-01,Tops Wirebound Message Log Books,24.00
 2015-11-01,Tops Wirebound Message Log Books,27.00
-2014-05-01,Toshiba IPT2010-SD IP Telephone,222.00
-2016-10-01,Toshiba IPT2010-SD IP Telephone,222.00
-2016-11-01,Toshiba IPT2010-SD IP Telephone,222.00
-2014-08-01,Toshiba IPT2010-SD IP Telephone,556.00
-2013-11-01,Toshiba IPT2010-SD IP Telephone,1168.00
-2016-02-01,Toshiba IPT2010-SD IP Telephone,1223.00
+2014-05-01,Toshiba IPT2010-SD IP√äTelephone,222.00
+2016-10-01,Toshiba IPT2010-SD IP√äTelephone,222.00
+2016-11-01,Toshiba IPT2010-SD IP√äTelephone,222.00
+2014-08-01,Toshiba IPT2010-SD IP√äTelephone,556.00
+2013-11-01,Toshiba IPT2010-SD IP√äTelephone,1168.00
+2016-02-01,Toshiba IPT2010-SD IP√äTelephone,1223.00
 2015-06-01,Translucent Push Pins by OIC,4.00
 2016-04-01,Translucent Push Pins by OIC,8.00
 2015-11-01,Translucent Push Pins by OIC,13.00
@@ -8179,11 +8179,11 @@ Month of Order Date,Product Name,Sales
 2013-01-01,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,11.00
 2013-08-01,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,27.00
 2013-03-01,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,53.00
-2016-09-01,Wilson Jones “Snap” Scratch Pad Binder Tool for Ring Binders,6.00
-2015-02-01,Wilson Jones “Snap” Scratch Pad Binder Tool for Ring Binders,6.00
-2016-07-01,Wilson Jones “Snap” Scratch Pad Binder Tool for Ring Binders,14.00
-2015-10-01,Wilson Jones “Snap” Scratch Pad Binder Tool for Ring Binders,23.00
-2014-08-01,Wilson Jones “Snap” Scratch Pad Binder Tool for Ring Binders,52.00
+2016-09-01,Wilson Jones √íSnap√ì Scratch Pad Binder Tool for Ring Binders,6.00
+2015-02-01,Wilson Jones √íSnap√ì Scratch Pad Binder Tool for Ring Binders,6.00
+2016-07-01,Wilson Jones √íSnap√ì Scratch Pad Binder Tool for Ring Binders,14.00
+2015-10-01,Wilson Jones √íSnap√ì Scratch Pad Binder Tool for Ring Binders,23.00
+2014-08-01,Wilson Jones √íSnap√ì Scratch Pad Binder Tool for Ring Binders,52.00
 2016-09-01,Wilson Jones Active Use Binders,4.00
 2015-07-01,Wilson Jones Active Use Binders,9.00
 2015-01-01,Wilson Jones Active Use Binders,12.00
@@ -8399,8 +8399,8 @@ Month of Order Date,Product Name,Sales
 2015-02-01,X-Rack File for Hanging Folders,56.00
 2016-09-01,X-Rack File for Hanging Folders,56.00
 2016-10-01,X-Rack File for Hanging Folders,77.00
-2013-05-01,Xblue XB-1670-86 X16 Small Office Telephone - Titanium,101.00
-2014-11-01,Xblue XB-1670-86 X16 Small Office Telephone - Titanium,504.00
+2013-05-01,Xblue XB-1670-86 X16 Small√äOffice Telephone√ä- Titanium,101.00
+2014-11-01,Xblue XB-1670-86 X16 Small√äOffice Telephone√ä- Titanium,504.00
 2016-02-01,Xerox 2,5.00
 2013-10-01,Xerox 2,10.00
 2014-10-01,Xerox 2,10.00
